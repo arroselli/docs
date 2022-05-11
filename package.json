@@ -60,7 +60,7 @@
     "html-truncate": "^1.2.2",
     "imurmurhash": "^0.1.4",
     "ioredis": "^4.19.4",
-    "ioredis-mock": "^5.2.0",
+    "ioredis-mock": "^5.9.1",
     "is-url": "^1.2.4",
     "js-cookie": "^2.2.1",
     "js-yaml": "^3.14.0",
